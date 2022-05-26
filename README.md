@@ -2,6 +2,7 @@
 
 This theme reads its colors from your `~/.Xresources` file so that you can
 easily keep your emacs theme in sync with your xterm and other X applications.
+This includes edits specifically for using with [pywal](https://github.com/dylanaraps/pywal) generated colors.
 
 ## In Action
 
